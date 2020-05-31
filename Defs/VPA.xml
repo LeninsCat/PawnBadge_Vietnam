@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Private</defName>
+    <label>VPA - Private</label>
+    <description>VPA Military Rank - Private</description>
+    <icon>PawnBadge/VPA/v1-vpa-private</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Privatefc</defName>
+    <label>VPA - Private First Class</label>
+    <description>VPA Military Rank - Private First Class</description>
+    <icon>PawnBadge/VPA/v2-vpa-privatefc</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Corporal</defName>
+    <label>VPA - Corporal</label>
+    <description>VPA Military Rank - Corporal</description>
+    <icon>PawnBadge/VPA/v3-vpa-corporal</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Sergeant</defName>
+    <label>VPA - Sergeant</label>
+    <description>VPA Military Rank - Sergeant</description>
+    <icon>PawnBadge/VPA/v4-vpa-sergeant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_SergeantMajor</defName>
+    <label>VPA - Sergeant Major</label>
+    <description>VPA Military Rank - Sergeant Major</description>
+    <icon>PawnBadge/VPA/v5-vpa-sergeant_major</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_jlieutenant</defName>
+    <label>VPA - Junior-Lieutenant</label>
+    <description>VPA Military Rank - Junior-Lieutenant</description>
+    <icon>PawnBadge/VPA/v6-vpa-jlieutenant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Lieutenant</defName>
+    <label>VPA - Lieutenant</label>
+    <description>VPA Military Rank - Lieutenant</description>
+    <icon>PawnBadge/VPA/v7-vpa-lieutenant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Senior-Lieutenant</defName>
+    <label>VPA - Senior-Lieutenant</label>
+    <description>VPA Military Rank - Senior-Lieutenant</description>
+    <icon>PawnBadge/VPA/v8-vpa-slieutenant</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Captain</defName>
+    <label>VPA - Captain</label>
+    <description>VPA Military Rank - Captain</description>
+    <icon>PawnBadge/VPA/v9-vpa-captain</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Major</defName>
+    <label>VPA - Major</label>
+    <description>VPA Military Rank - Major</description>
+    <icon>PawnBadge/VPA/v10-vpa-major</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Lieutenant-Colonel</defName>
+    <label>VPA - Lieutenant-Colonel</label>
+    <description>VPA Military Rank - Lieutenant-Colonel</description>
+    <icon>PawnBadge/VPA/v11-vpa-lcolonel</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Colonel</defName>
+    <label>VPA - Colonel</label>
+    <description>VPA Military Rank - Colonel</description>
+    <icon>PawnBadge/VPA/v12-vpa-colonel</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Senior-Colonel</defName>
+    <label>VPA - Senior Colonel</label>
+    <description>VPA Military Rank - Senior-Colonel</description>
+    <icon>PawnBadge/VPA/v13-vpa-scolonel</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Major-General</defName>
+    <label>VPA - Major General</label>
+    <description>VPA Military Rank - Major General</description>
+    <icon>PawnBadge/VPA/v14-vpa-mgeneral</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Lieutenant-General</defName>
+    <label>VPA - Lieutenant General</label>
+    <description>VPA Military Rank - Lieutenant General</description>
+    <icon>PawnBadge/VPA/v15-vpa-lgeneral</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Colonel-General</defName>
+    <label>VPA - Colonel General</label>
+    <description>VPA Military Rank - Colonel General</description>
+    <icon>PawnBadge/VPA/v16-vpa-cgeneral</icon>
+  </RR_PawnBadge.BadgeDef>
+  <RR_PawnBadge.BadgeDef>
+    <defName>VPA_Army-General</defName>
+    <label>VPA - General of the Army</label>
+    <description>VPA Military Rank - General of the Vietnamese People's Army</description>
+    <icon>PawnBadge/VPA/v17-vpa-ageneral</icon>
+  </RR_PawnBadge.BadgeDef>
+</Defs>
