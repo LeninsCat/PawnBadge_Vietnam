@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Pawn Badge - Vietnamese People's Army</name>
   <author>Lenin's Cat</author>
   <supportedVersions>
     <li>1.0</li>
-        <li>1.1</li>
+    <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
   <description> 
     Adds Vietnamese military rank badges from "Private" to "General of the Vietnamese People's Army"
   </description>
   <packageId>LeninsCat.VietnamPawnBadge</packageId>
-	<modDependencies>
-	  <li>
-		<packageId>SaucyPigeon.PawnBadge</packageId>
-		<displayName>Pawn Badge Fan Fork</displayName>
-		<downloadUrl>https://github.com/SaucyPigeon/RR_PawnBadge/releases/latest</downloadUrl>
-		<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2112663412</steamWorkshopUrl>
-	  </li>
-	</modDependencies>
-
-	<loadAfter>
-	  	<li>SaucyPigeon.PawnBadge</li>
-	</loadAfter>
+  <modDependencies>
+    <li>
+      <packageId>SaucyPigeon.PawnBadge</packageId>
+      <displayName>Pawn Badge Fan Fork</displayName>
+      <downloadUrl>https://github.com/SaucyPigeon/RR_PawnBadge/releases/latest</downloadUrl>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2112663412</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>SaucyPigeon.PawnBadge</li>
+  </loadAfter>
 </ModMetaData>
